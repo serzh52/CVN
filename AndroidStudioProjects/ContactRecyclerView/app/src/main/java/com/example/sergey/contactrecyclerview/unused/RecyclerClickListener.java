@@ -1,4 +1,4 @@
-package com.example.sergey.contactrecyclerview;
+package com.example.sergey.contactrecyclerview.unused;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
